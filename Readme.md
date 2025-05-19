@@ -1,12 +1,16 @@
 <img src="./man.gif" width="800" height="auto">
 
-<p align="center" style="font-size: 36px; font-weight: bold">👋 Hi there, I'm Darshan</p>
+<div align="center">
+  <h1>👋 Hi there, I'm Darshan</h1>
+</div>
 
-<div align="center" style="font-size: 36px; font-weight: bold">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&random=false&width=435&lines=Computer+Science+Student;Beginner+Web+Developer;Learning+MERN+Stack;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-<p align="center" style="font-size: 36px; font-weight: bold">🚀 About Me</p>
+<div align="center">
+  <h1>🚀 About Me</h1>
+</div>
 
 - ### 🎓 Computer Science Student passionate about technology
 - ### 💻 Beginner Web Developer focusing on MERN Stack
@@ -14,9 +18,9 @@
 - ### 👯 Looking to collaborate on Open Source Projects
 - ### ⚡ Always eager to learn and explore new technologies
 
-
-<p align="center" style="font-size: 36px; font-weight: bold">🛠️ Languages and Tools</p>
-
+<div align="center">
+  <h1>🛠️ Languages and Tools</h1>
+</div>
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -47,22 +51,29 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   </a>
 </div>
-<p align="center" style="font-size: 36px; font-weight: bold"> 📖 My Learning Journey</p>
 
+<div align="center">
+  <h1>📖 My Learning Journey</h1>
+</div>
 
 - ### 🔭 Currently enhancing my skills in MERN Stack Development
 - ### 🌐 Exploring the world of Artificial Intelligence
 - ### 📚 Building projects to strengthen my programming fundamentals
 - ### 🧩 Solving coding challenges to improve problem-solving abilities
 
-<p align="center" style="font-size: 36px; font-weight: bold">📊 GitHub Stats</p>
-# 
+
+<div align="center">
+  <h1>📊 GitHub Stats</h1>
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mailmeatdarshan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mailmeatdarshan&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<p align="center" style="font-size: 36px; font-weight: bold">📬 Connect With Me</p>
+<div align="center">
+  <h1>📬 Connect With Me</h1>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/darshandubey25/">
@@ -78,19 +89,28 @@
   </a>
 </div>
 
-<p align="center" style="font-size: 36px; font-weight: bold">🤝 Open to Collaborate</p>
+<div align="center">
+  <h1>🤝 Open to Collaborate</h1>
+</div>
 
 ### I'm always interested in collaborating on interesting projects and contributing to open source. If you have a project where you think I could help, feel free to reach out!
 
-<p align="center" style="font-size: 36px; font-weight: bold">☕ Support My Work</p>
+<div align="center">
+  <h1>☕ Support My Work</h1>
+</div>
 
 <div align="center">
   <a href="https://buymeacoffee.com/darshansdubey">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
   </a>
 </div>
-<div align="center" style="font-size: 36px; font-weight: bold">
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
-  <p>Thanks for visiting my profile! 😊</p>
 </div>
 
+<div align="center">
+  <h1>Thanks for visiting my profile! 😊</h1>
+</div>
+
+---

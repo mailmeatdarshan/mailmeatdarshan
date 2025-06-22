@@ -147,7 +147,7 @@ const darshan = {
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your.email@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="50" />
+    <img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_1280.png" alt="Email" height="40" width="50" />
   </a>
 </div>
 
@@ -177,7 +177,7 @@ const darshan = {
 
 <div align="center">
   <a href="https://buymeacoffee.com/darshansdubey">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
   </a>
 </div>
 

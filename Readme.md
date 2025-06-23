@@ -1,137 +1,105 @@
-<img src="./man.gif" width="800" height="auto">
+# こんにちは 👋
+
+<img src="./man-on-fire.gif" width="100%" height="300" style="object-fit: cover;">
 
 ---
 
-<div align="center">
-  <h1>👋 Hi there, I'm Darshan</h1>
-  <h3>🚀 Turning Code into Creative Solutions</h3>
-</div>
+# 私について 💬
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&random=false&width=500&lines=Computer+Science+Student;Full+Stack+Web+Developer;Open+Source+Enthusiast;AI+%26+Tech+Explorer;Problem+Solver" alt="Typing SVG" />
-</div>
+- **Full Stack Developer** 🚀
+- **コードを書くのが好き** (I love writing code)
+- **日本語を勉強中** (ひらがな ✓)
+- **ワンピース愛好家 & 夜行性プログラマー** 🌙
 
 ---
 
+# 技術スタック 🛠️
+
 <div align="center">
-  <h1>🚀 About Me</h1>
+  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,javascript,python,cpp,java,mysql,mongodb,git&theme=dark" />
 </div>
-
-<table align="center">
-<tr>
-<td>
-
-- 🎓 **Computer Science Student** passionate about technology
-- 💻 **Full Stack Developer** building modern web applications  
-- 🌱 Currently working on **React Based Projects**
-- 🤖 Exploring the fascinating world of **Artificial Intelligence**
-- 👯 Looking to collaborate on **Open Source Projects**
-- ⚡ Always eager to **learn and explore** new technologies
-- 🧩 Love solving **coding challenges** and **algorithmic problems**
-
-</td>
-<td>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-  <h1>🛠️ Tech Stack & Tools</h1>
-</div>
-
-### 💻 Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql" />
-</div>
-
-### 🚀 Frameworks & Libraries
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express" />
-</div>
-
-### 🛠️ Development Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
-</div>
-
-### ☁️ Databases & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
-</div>
-
----
-
-<div align="center">
-  <h1>📊 GitHub Analytics</h1>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mailmeatdarshan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailmeatdarshan&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mailmeatdarshan&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mailmeatdarshan&theme=react-dark&bg_color=20232a&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <h1>🏆 GitHub Trophies</h1>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mailmeatdarshan&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</div>
-
----
-
-<div align="center">
-  <h1>📈 Contribution Graph</h1>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mailmeatdarshan/mailmeatdarshan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <h1>📖 My Learning Journey</h1>
-</div>
-
-<div align="center">
 
 ```javascript
-const darshan = {
-    currentFocus: "Full Stack Development",
-    learning: ["React.js", "Node.js", "AI/ML", "Cloud Computing"],
-    goals: ["Contributing to Open Source", "Building SaaS Products"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
+// コードは詩のようなものだ
+try {
+  const hexa = await Universe.compile({
+    type: "開発者",
+    bugPath: "//感謝/ありがとう",
+    mode: "不屈開発者が勝者"
+  });
+  
+  // 書いたコードは詩か呪いか
+  console.dark("完璧すぎる、逆だめじゃねえ、デバッグしてるはずなのに");
+} catch (愛) {
+  // Every line of code I write is either a poem or a curse
+  console.dark("愛がすべてだ");
+}
 ```
-
-</div>
-
-### 🎯 Current Goals
-- 🔭 **Enhancing** my skills and building an impressive portfolio
-- 🌐 **Exploring** Artificial Intelligence and Machine Learning
-- 📚 **Building** real-world projects to strengthen programming fundamentals
-- 🧩 **Solving** coding challenges on LeetCode and HackerRank
-- 🤝 **Contributing** to open source projects
 
 ---
 
+# GitHub統計 📊
+
 <div align="center">
-  <h1>📬 Let's Connect!</h1>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mailmeatdarshan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailmeatdarshan&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mailmeatdarshan&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF7B72&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=79C0FF&dates=8B949E" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+# 現在の活動 🌸
+
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  currentlyLearning: string[];
+  workingOn: string[];
+  hobby: string[];
+}
+
+const darshan: Developer = {
+  name: "Darshan Dubey",
+  location: "Earth",
+  currentlyLearning: ["React.js", "AI/ML", "日本語"],
+  workingOn: ["Full Stack Projects", "Open Source"],
+  hobby: ["Anime", "Coding", "Problem Solving"]
+};
+
+// 今日も一日頑張ろう！
+console.log(`${darshan.name}は今日も頑張っています！`);
+```
+
+---
+
+# プロジェクト & 成果 🏆
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mailmeatdarshan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&no-bg=true"/>
+</div>
+
+---
+
+# 学習の旅 📚
+
+### 🎯 現在の目標
+- **React.js** でモダンなWebアプリを構築
+- **AI/ML** の世界を探索
+- **オープンソース** プロジェクトに貢献
+- **日本語** を流暢に話せるようになる
+
+### 💡 哲学
+> *"プログラミングは芸術だ。コードは詩である。"*
+> 
+> *"Programming is art. Code is poetry."*
+
+---
+
+# 連絡先 📫
 
 <div align="center">
   <a href="https://www.linkedin.com/in/darshandubey25/">
@@ -147,33 +115,29 @@ const darshan = {
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your.email@gmail.com">
-    <img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_1280.png" alt="Email" height="40" width="50" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="50" />
   </a>
 </div>
 
 ---
 
-<div align="center">
-  <h1>🤝 Open for Collaboration</h1>
-</div>
+# コラボレーション 🤝
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I'm always interested in collaborating on exciting projects!</b></em>
+  <em><b>一緒にすごいものを作りましょう！</b></em>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
 
-### 💡 What I'm looking for:
-- 🌟 **Open Source Projects** - Contributing to meaningful projects
-- 🚀 **Startup Ideas** - Building the next big thing
-- 🎯 **Learning Opportunities** - Hackathons, coding challenges
-- 🤖 **AI/ML Projects** - Exploring artificial intelligence
+### 🌟 協力したいこと:
+- **オープンソースプロジェクト** - 意味のあるプロジェクトに貢献
+- **スタートアップのアイデア** - 次の大きなものを構築
+- **学習の機会** - ハッカソン、コーディングチャレンジ
+- **AI/MLプロジェクト** - 人工知能の探索
 
 ---
 
-<div align="center">
-  <h1>☕ Support My Work</h1>
-</div>
+## サポート ☕
 
 <div align="center">
   <a href="https://buymeacoffee.com/darshansdubey">
@@ -184,12 +148,13 @@ const darshan = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mailmeatdarshan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mailmeatdarshan?label=Followers&style=social" alt="GitHub followers">
+  <img src="https://komarev.com/ghpvc/?username=mailmeatdarshan&color=blueviolet&style=flat-square&label=プロフィール訪問者数" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mailmeatdarshan?label=フォロワー&style=social" alt="GitHub followers">
 </div>
 
 <div align="center">
-  <h2>⭐ Thanks for visiting my profile! Let's build something amazing together! 🚀</h2>
+  <h2>⭐ プロフィールを見てくれてありがとう！一緒に素晴らしいものを作りましょう！🚀</h2>
+  <h3>Thanks for visiting! Let's build something amazing together!</h3>
 </div>
 
 <div align="center">
@@ -199,5 +164,10 @@ const darshan = {
 ---
 
 <div align="center">
-  <i>💭 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>💭 "美しいコードは詩のようなものだ" - Beautiful code is like poetry</i>
+</div>
+
+<div align="center">
+  <h3>今日も一日頑張りましょう！🌸</h3>
+  <h4>Let's do our best today too!</h4>
 </div>

@@ -114,8 +114,8 @@ console.log(`${darshan.name}は今日も頑張っています！`);
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="50" />
+  <a href="mailto:mailmeatdarshan@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" height="40" width="50" />
   </a>
 </div>
 

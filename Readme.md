@@ -44,18 +44,19 @@
 
 <div align="center">
   <h3>🚀 Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,react,nodejs,nextjs,vue,angular&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,react,nodejs,nextjs,vue,angular&theme=dark" />
 </div>
 
 <div align="center">
   <h3>🛠️ Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,mongodb,mysql,postgresql,redis,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,mongodb,mysql,figma&theme=dark" />
 </div>
 
 <div align="center">
   <h3>🎨 Design & Others</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,webpack,babel,jest,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,linux,bash&theme=dark" />
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
